@@ -1,28 +1,28 @@
 # Engage-22
 
 Syallabus
-searching and sorting
-time complexity
-2 - 3 explanation
-2 - 3 short
-rest guess the output
-write the pseudo code
-implement dsa from scratch
-priority queue
-stack
-queue
-linked list
+searching and sorting<br>
+time complexity<br>
+2 - 3 explanation<br>
+2 - 3 short<br>
+rest guess the output<br>
+write the pseudo code<br>
+implement dsa from scratch<br>
+priority queue<br>
+stack<br>
+queue<br>
+linked list<br>
 
-git and github
-differnt commands
+git and github<br>
+differnt commands<br>
   mcq part  + what will happen with this command
 
-self driving cars
-IMP -> Recursion
+self driving cars<br>
+IMP -> Recursion<br>
   - time complexity
   - true/ false with explanation
 
-Trees
+Trees<br>
   - balanced / BST / travesal
   - node height leaves relation
   - explanation also
