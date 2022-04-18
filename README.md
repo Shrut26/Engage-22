@@ -33,3 +33,4 @@ MCQs<br>
 - [Time Complexity Tough question](https://testbook.com/objective-questions/mcq-on-time-complexity--5eea6a0c39140f30f369e0ea)
 - [Sorting quiz](https://www.geeksforgeeks.org/algorithms-gq/searching-and-sorting-gq/)
 - [Searching quiz](https://www.geeksforgeeks.org/algorithms-gq/searching-gq/)
+- [BST](https://www.geeksforgeeks.org/data-structure-gq/binary-search-trees-gq/)
