@@ -44,5 +44,6 @@ MCQs<br>
 
 
 
-- Face recognition
-  -[first](https://github.com/nevilparmar11/Attendance-Management-System-Using-Face-Recognition)
+- Face recognition<br>
+  - [first](https://github.com/nevilparmar11/Attendance-Management-System-Using-Face-Recognition)
+  - [Second](https://github.com/Marin-Tony/attendance-system-using-face-detection)
