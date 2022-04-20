@@ -34,3 +34,15 @@ MCQs<br>
 - [Sorting quiz](https://www.geeksforgeeks.org/algorithms-gq/searching-and-sorting-gq/)
 - [Searching quiz](https://www.geeksforgeeks.org/algorithms-gq/searching-gq/)
 - [BST](https://www.geeksforgeeks.org/data-structure-gq/binary-search-trees-gq/)
+
+
+
+
+
+
+
+
+
+
+- Face recognition
+  -[first](https://github.com/nevilparmar11/Attendance-Management-System-Using-Face-Recognition)
