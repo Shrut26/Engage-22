@@ -37,6 +37,8 @@ MCQs<br>
 - [BST](https://www.geeksforgeeks.org/data-structure-gq/binary-search-trees-gq/)
 
 
+Prepare well the puzzles from interview and gfg
+
 
 
 
